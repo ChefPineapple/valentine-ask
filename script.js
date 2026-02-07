@@ -1,7 +1,7 @@
-// Your existing JavaScript code with 'Yippeeee!' replaced by 'Yayyyyy!'
+// Your original code
+// ...
 
-function exampleFunction() {
-    // Other code
-    console.log("Yayyyyy!"); // Line 63
-    // Other code
-}
+console.log("Yayyyyy!"); // updated line
+
+// More original code
+// ...
